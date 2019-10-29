@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Pierwszy commit
+=======
+Pierwszy commit
+Drugi commit
+WTF
+>>>>>>> 520ff79... "Dodanie zmiany w Witaj.txt"
