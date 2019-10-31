@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 Pierwszy commit
-=======
-Pierwszy commit
-<<<<<<< HEAD
 Drugi commit
-WTF
->>>>>>> 520ff79... "Dodanie zmiany w Witaj.txt"
-=======
-Drugi commit
->>>>>>> a84b4ef... Revert ""Dodanie zmiany w Witaj.txt""
+Trzeci commit 
+Czwarty ...
+
+
+
+
+
