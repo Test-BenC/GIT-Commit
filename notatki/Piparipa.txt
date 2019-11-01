@@ -1,1 +1,3 @@
 Zmiany na gałęzi master
+Zmiany na gałęzi nowy_branch
+
