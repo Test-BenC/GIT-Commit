@@ -1,7 +1,7 @@
 Pierwszy commit
 Drugi commit
 Trzeci commit 
-Czwarty ...
+Czwarty commit
 
 
 
