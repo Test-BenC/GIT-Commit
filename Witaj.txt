@@ -1,7 +1,4 @@
-Pierwszy commit
-Drugi commit
-Trzeci commit 
-Czwarty commit
+Praca wspólna
 
 
 
